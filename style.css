@@ -51,7 +51,7 @@ img.beefimg{
 h1.bris{
     color: aliceblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 80px;
+    font-size: 50px;
     margin: 20px;
 }
 h2.yrs18{
@@ -148,7 +148,7 @@ h1.LF{
     color: aliceblue;
     font-weight:bolder;
     margin-top: 150px ;
-    font-size: 70px;
+    font-size: 50px;
 }
 .line{
     height: 2px;
@@ -192,7 +192,7 @@ h1.cat{
     color: aliceblue;
     font-weight:500;
     margin-top: 50px ;
-    font-size: 70px;
+    font-size: 50px;
 }
 h2.brin-peo{
     color: aliceblue;
@@ -266,14 +266,14 @@ hr.t-hr6,.t-hr10{
     background-color: rgba(0, 0, 0, 0.512);
  }
  .rivers-inbox{
-    height: 400px;
+ 
     text-align: center;
  }
  h1.riv{
     color: aliceblue;
     font-weight:bolder;
     margin-top: 50px ;
-    font-size: 70px;
+    font-size: 50px;
  }
  .line-riv{
     height: 2px;
@@ -317,7 +317,7 @@ h1.l4l{
     color: aliceblue;
     font-weight:500;
     margin-top: 50px ;
-    font-size: 70px;
+    font-size: 50px;
  }
  h2.light{
     color: aliceblue;
@@ -405,7 +405,7 @@ h1.beginning{
     color: aliceblue;
     font-weight:500;
     margin-top: 150px ;
-    font-size: 70px;
+    font-size: 50px;
  }
  .line-beg{
     height: 2px;
