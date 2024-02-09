@@ -1,0 +1,537 @@
+/* login section */
+
+section#logo-sec{
+    background-color:black;
+}
+img.r4{
+    height: 20px;
+    float: left;
+    margin: 7px;
+}
+h1.heading{
+    font-size: 20px;
+    font-style: oblique;
+    float: left;
+    margin:5px;
+    color: aliceblue;
+}
+.logo a:link,.logo a:visited,.logo a:active,.logo a:hover{
+    color:aliceblue;
+    text-decoration: none;
+    margin: 10px 10px;
+    display: inline-block;
+    font-size:large;
+}
+h2.carthead{
+    float: left;
+    color: aliceblue;
+    font-size: 15px;
+    margin: 10px;
+    font-weight: 100p;
+}
+img.cartimg{
+    height: 25px;
+    float: left;
+    margin: 7px;
+}
+
+/* banner section */
+
+section#banner-sec{
+    background-image: url(food.jpg);
+    background-size: cover;
+}
+.banner-inbox{
+    height:500px;
+    text-align: center;
+}
+img.beefimg{
+     height: 100px;
+}
+h1.bris{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80px;
+    margin: 20px;
+}
+h2.yrs18{
+    color: aliceblue;
+    font-size: 30px;
+}
+.STM a:link,.STM a:visited,.STM a:active,.STM a:hover{
+    color:black;
+    text-decoration: none;
+    margin: 50px 10px;
+    display: inline-block;
+    font-size:large;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+
+/* quote section */
+section#quote-sec{
+    background-image: url(B&Wpic.jpg);
+    background-size: cover;
+}
+
+.quote-shade{
+    background-color: rgba(0, 0, 0, 0.51);
+}
+.quote-inbox2{
+    text-align: center;
+    padding: 30px 0px;
+}
+h2.redefine{
+    color: aliceblue;
+    font-family:cursive;
+    font-size: 30px;
+    margin-top: 100px;
+}
+h2.one-brisk{
+    color: aliceblue;
+    font-family:cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.quote-inbox1{
+    padding: 80px 0px;
+
+}
+hr.q-hr1,.q-hr2,.q-hr3,.q-hr4,.q-hr5{
+    color:wheat;
+    margin: 15px 0px;
+    width: 400px;
+
+}
+hr.q-hr1,.q-hr5{
+    width: 150px;
+
+}
+.quote-inbox3{
+    padding: 90px 0px;
+}
+hr.q-hr6,.q-hr7,.q-hr8,.q-hr9,.q-hr10{
+    color:wheat;
+    margin: 15px 0px;
+    width: 400px;
+}
+hr.q-hr6,.q-hr10{
+    width: 150px;
+}
+
+
+
+/* local-flavor section */
+section#local-sec{
+    background-image: url(cafekitchen.jpg);
+    background-size: cover;
+}
+.local-shade{
+    background-color: rgba(0, 0, 0, 0.314);
+}
+.local-inbox{
+    height: 500px;
+    text-align: center;
+}
+
+i.bi1{
+   font-size: 20px;
+   color: aliceblue;
+   display: inline-block;
+    text-decoration: underline;
+    transform: translateY(-25px);
+}
+
+h1.LF{
+    color: aliceblue;
+    font-weight:bolder;
+    margin-top: 150px ;
+    font-size: 70px;
+}
+.line{
+    height: 2px;
+    background-color: aliceblue;
+    width: 50%;
+    margin:auto;
+}
+h2.family{
+    color: aliceblue;
+    font-size:30px;
+    margin-top: 30px;
+}
+a.findus{
+    color:black;
+    text-decoration: none;
+    margin: 50px ;
+    display: inline-block;
+    font-size:large;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+
+/* catering section */
+
+section#catering-sec{
+    background-image: url(catering.jpg);
+    background-size: cover;
+}
+.catering-shade{
+    background-color: rgba(0, 0, 0, 0.654);
+}
+.catering-inbox{
+    height: 500px;
+    text-align: center;
+}
+img.spoon&fork{
+    height: 100px;
+}
+h1.cat{
+    color: aliceblue;
+    font-weight:500;
+    margin-top: 50px ;
+    font-size: 70px;
+}
+h2.brin-peo{
+    color: aliceblue;
+    font-size:30px;
+    margin-top: 30px;
+}
+a.view-cat{
+    color:black;
+    text-decoration: none;
+    margin: 50px ;
+    display: inline-block;
+    font-size:large;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+/* thought section */
+
+section#thought-sec{
+    background-image: url(coffee.jpg);
+    background-size: cover;
+}
+.thought-shade{
+    background-color: rgba(255, 255, 255, 0.554);
+}
+.thought-inbox2{
+    text-align: center;
+
+}
+h2.at{
+    color: rgb(17, 17, 18);
+    font-family:cursive;
+    font-size: 30px;
+    margin-top: 100px;
+}
+span.span1{
+    font-weight: bolder;
+}
+
+.thought-inbox1{
+    padding: 70px 0px;
+}
+hr.t-hr1,.t-hr2,.t-hr3,.t-hr4,.t-hr5{
+    color:black;
+    margin: 15px 0px;
+
+}
+hr.t-hr1,.t-hr5{
+    width: 150px;
+
+}
+.thought-inbox3{
+    padding: 70px 0px;
+}
+hr.t-hr6,.t-hr7,.t-hr8,.t-hr9,.t-hr10{
+    color:black;
+    margin: 15px 0px;
+}
+hr.t-hr6,.t-hr10{
+    width: 150px;
+}
+
+
+ /* 4 rivers section */
+
+ section#rivers-sec{
+    background-image: url(kitchen.jpg);
+    background-size: cover;
+ }
+ .rivers-shade{
+    background-color: rgba(0, 0, 0, 0.512);
+ }
+ .rivers-inbox{
+    height: 400px;
+    text-align: center;
+ }
+ h1.riv{
+    color: aliceblue;
+    font-weight:bolder;
+    margin-top: 50px ;
+    font-size: 70px;
+ }
+ .line-riv{
+    height: 2px;
+    background-color: aliceblue;
+    width: 60%;
+    margin:auto;
+ }
+ h2.sauces{
+    color: aliceblue;
+    font-size:30px;
+    margin-top: 30px;
+ }
+ a.shop{
+    color:black;
+    text-decoration: none;
+    margin: 50px ;
+    display: inline-block;
+    font-size:large;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+/* loyal 4 life */
+
+section#loyal-sec{
+    background-image: url(tastingfood.jpg);
+    background-size: cover;
+}
+.loyal-shade{
+    background-color: rgba(0, 0, 0, 0.464);
+}
+.loyal-inbox{
+    height: 500px;
+    text-align: center;
+}
+img.loyal-4r{
+    height: 50px;
+    margin-top: 60px;
+}
+h1.l4l{
+    color: aliceblue;
+    font-weight:500;
+    margin-top: 50px ;
+    font-size: 70px;
+ }
+ h2.light{
+    color: aliceblue;
+    font-size:30px;
+    margin-top: 30px;
+ }
+ a.find-more{
+    color:black;
+    text-decoration: none;
+    margin: 50px ;
+    display: inline-block;
+    font-size:large;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+
+/* john rivers thought section */
+
+section#john-sec{
+    background-image: url(thought.jpg);
+    background-size: cover;
+}
+.john-shade{
+    background-color: rgba(210, 180, 140, 0.627);
+}
+.john-inbox2{
+    padding: 45px 0px;
+}
+h2.if-thought{
+    color: aliceblue;
+    font-family:cursive;
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: 400PX;
+}
+
+span.span-if{
+    font-weight: bolder;
+}
+span.span-john{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px ;
+    margin-left: 100px;
+}
+
+.john-inbox1{
+    padding: 100px 0px;
+}
+hr.j-hr1,.j-hr2,.j-hr3,.j-hr4,.j-hr5{
+    color:wheat;
+    margin: 15px 0px;
+}
+hr.j-hr1,.j-hr5{
+    width: 150px;
+
+}
+.john-inbox3{
+    padding: 100px 0px;
+}
+hr.j-hr6,.j-hr7,.j-hr8,.j-hr9,.j-hr10{
+    color:wheat;
+    margin: 15px 0px;
+}
+hr.j-hr6,.j-hr10{
+    width: 150px;
+
+}
+
+
+/* beginning section */
+
+section#beg-sec{
+    background-image: url(cooking.jpg);
+    background-size: cover;
+}
+.beg-shade{
+    background-color: rgba(0, 0, 0, 0.488);
+}
+.beg-inbox{
+    height: 400px;
+    text-align: center;
+}
+h1.beginning{
+    color: aliceblue;
+    font-weight:500;
+    margin-top: 150px ;
+    font-size: 70px;
+ }
+ .line-beg{
+    height: 2px;
+    background-color: aliceblue;
+    width: 50%;
+    margin:auto;
+}
+ h2.beg-h2{
+    color: aliceblue;
+    font-size:30px;
+    margin-top: 30px;
+ }
+a.beg-link{
+    color:black;
+    text-decoration: none;
+    margin: 50px ;
+    display: inline-block;
+    font-size:large;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+/* about section */
+
+
+section#about-sec{
+    background-color:black;
+    /* height: 400px; */
+}
+.about-inbox1{
+    background-image: url(four-r.jpg);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 50px 0px;
+}
+.about-img{
+    background-color: rgba(0, 0, 0, 0.697);
+    padding: 100px 0px;
+
+}
+h3.join{
+    color: aliceblue;
+    font-family: cursive;
+    padding: 30px;
+}
+.trans{
+    background-color: rgba(0, 0, 0, 0.486);
+}
+ 
+h1.link-h1{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+    padding: 30px  0px 10px 0px;
+}
+img.arrow{
+    height: 20px;
+}
+h3.press,.career,.dr,.faq,.gc,.gcb{
+    color: slategray;
+    font-size: medium;
+}
+h1.r4family{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+    padding: 30px  0px 10px 0px;
+}
+h3.coop,.cake{
+    color: slategray;
+    font-size: medium;
+}
+h1.contact{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+    padding: 30px  0px 10px 0px;
+}
+h3.phn{
+    font-size: medium;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+}
+span.span-no{
+    color: slategray;
+    font-size: medium;
+}
+a.contact{
+    color:black;
+    text-decoration: none;
+    margin: 50px 0px ;
+    display: inline-block;
+    font-size:large;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+/* last section */
+
+section#last-sec{
+    background-color:darkgrey;
+     height: 80px; 
+}
+.last-inbox1{
+    height: min-content;
+  
+    
+}
+img.c-icon{
+    height: 25px;
+}
+h4.rs-h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+    padding: 20px  0px 10px 5px;
+}
+.last-inbox2{
+    height:min-content;
+  
+
+}
+img.facebook,.twitter,.instagram{
+    padding: 20px  0px 0px 0px; 
+    height: 50px;
+}
+
+
